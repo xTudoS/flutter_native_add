@@ -2,7 +2,7 @@
 
 A new flutter plugin project.
 
-![Screenshot](screenshot/01.png =400x)
+![Screenshot](screenshot/01.png){ width=50% }
 
 ## Getting Started
 
