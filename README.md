@@ -2,7 +2,7 @@
 
 A new flutter plugin project.
 
-![Screenshot|30%](screenshot/01.png)
+![Screenshot|512x397,20%](screenshot/01.png)
 
 ## Getting Started
 
