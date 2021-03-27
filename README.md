@@ -2,6 +2,8 @@
 
 A new flutter plugin project.
 
+[img]https://github.com/xTudoS/flutter_native_add/blob/master/screenshot/01.png[/img]
+
 ## Getting Started
 
 This project is a starting point for a Flutter
