@@ -2,7 +2,7 @@
 
 A new flutter plugin project.
 
-![<img src="screenshot/01.png" width="250"/>](screenshot/01.png)
+![<img src="screenshot/01.png" height="250px"/>](screenshot/01.png)
 
 ## Getting Started
 
