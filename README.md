@@ -2,7 +2,7 @@
 
 A new flutter plugin project.
 
-[img]https://github.com/xTudoS/flutter_native_add/blob/master/screenshot/01.png[/img]
+![Screenshot]screenshot/01.png
 
 ## Getting Started
 
