@@ -2,6 +2,8 @@
 
 A new flutter plugin project.
 
+![Screenshot](screenshot/01.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter
