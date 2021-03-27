@@ -2,7 +2,7 @@
 
 A new flutter plugin project.
 
-![Screenshot](screenshot/01.png)
+![Screenshot](screenshot/01.png | width=400)
 
 ## Getting Started
 
